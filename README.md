@@ -22,7 +22,19 @@
 ​ضبط الأداء: الوصول لأفضل إعدادات للموديل (Tuning).
 ​التقييم الاحترافي: استخدام مقاييس دقيقة مثل F1-Score و Confusion Matrix.
 ​حفظ النموذج: توثيق وحفظ الموديل والـ Scaler باستخدام joblib.
-​مرحلة التوقع: كود جاهز لاستقبال بيانات جديدة وإعطاء نتائج فورية.
+​مرحلة التوقع: كود جاهز لاستقبال بيانات جديدة وإعطاء نتائج فورية
+
+
+### 📊 Model Evaluation Summary
+
+We evaluated the performance of our Regression model by comparing the **Actual Prices** versus the **Predicted Prices** on the test set.
+
+#### **Actual vs. Predicted Price Analysis**
+**بالعربية:** تحليل مقارنة الأسعار الفعلية بالأسعار المتوقعة.
+
+![Model Prediction Evaluation](<   <img width="690" height="474" alt="Regression_Evaluation" src="https://github.com/user-attachments/assets/9c29f7a1-fbd6-4bc5-84c5-0dc837bb5a3e" />
+  >)
+
 ​Tech Stack | التقنيات
 ​Python: Pandas, Scikit-learn, XGBoost, Joblib.
 ​By: Mohamed Belal
