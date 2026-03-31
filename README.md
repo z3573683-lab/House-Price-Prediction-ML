@@ -36,12 +36,12 @@ We evaluated the performance of our Regression model by comparing the **Actual P
   >)
 
 ​📈 Model Evaluation:
-> Actual vs. Predicted Prices
->
+  Actual vs. Predicted Prices
+
 ​This scatter plot represents the final evaluation of our regression model. By comparing the Actual Prices against the Predicted Prices, we can observe:
 ​Model Accuracy: Most data points align closely with the dashed regression line, indicating a high correlation and low error rate.
 ​Reliability: The model consistently captures the pricing trends across different price ranges, confirming its readiness for real-world estimation.
->
+
 ​بالعربي
 
 ​مقارنة الأسعار الفعلية بالأسعار المتوقعة:
