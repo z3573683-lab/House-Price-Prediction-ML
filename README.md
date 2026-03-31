@@ -34,6 +34,7 @@ We evaluated the performance of our Regression model by comparing the **Actual P
 
 ![Model Prediction Evaluation](<   <img width="690" height="474" alt="Regression_Evaluation" src="https://github.com/user-attachments/assets/9c29f7a1-fbd6-4bc5-84c5-0dc837bb5a3e" />
   >)
+
 ​📈 Model Evaluation:
 > Actual vs. Predicted Prices
 >
