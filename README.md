@@ -34,6 +34,18 @@ We evaluated the performance of our Regression model by comparing the **Actual P
 
 ![Model Prediction Evaluation](<   <img width="690" height="474" alt="Regression_Evaluation" src="https://github.com/user-attachments/assets/9c29f7a1-fbd6-4bc5-84c5-0dc837bb5a3e" />
   >)
+​📈 Model Evaluation:
+> Actual vs. Predicted Prices
+>
+​This scatter plot represents the final evaluation of our regression model. By comparing the Actual Prices against the Predicted Prices, we can observe:
+​Model Accuracy: Most data points align closely with the dashed regression line, indicating a high correlation and low error rate.
+​Reliability: The model consistently captures the pricing trends across different price ranges, confirming its readiness for real-world estimation.
+>
+​بالعربي
+
+​مقارنة الأسعار الفعلية بالأسعار المتوقعة:
+يوضح هذا الرسم البياني كفاءة النموذج النهائي؛ حيث تتقارب النقاط بشكل كبير مع خط التوقع، مما يؤكد دقة النموذج وقدرته العالية على التنبؤ بأسعار المنازل بشكل واقعي وموثوق.
+
 
 ​Tech Stack | التقنيات
 ​Python: Pandas, Scikit-learn, XGBoost, Joblib.
