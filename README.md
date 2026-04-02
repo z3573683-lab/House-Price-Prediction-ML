@@ -1,4 +1,4 @@
-​🏠 House Price Prediction (Advanced Pipeline)
+**​🏠 House Price Prediction (Advanced Pipeline)**
 
 ​English
 
