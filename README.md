@@ -55,4 +55,9 @@ We evaluated the performance of our Regression model by comparing the **Actual P
 
 ​Tech Stack | التقنيات
 ​Python: Pandas, Scikit-learn, XGBoost, Joblib.
-​By: Mohamed Belal
+​
+## 👤 Author
+**[MOHAMED BELAL]** *Deep Learning & Data Engineering Enthusiast*
+
+MY PHONE [01018689118]
+
